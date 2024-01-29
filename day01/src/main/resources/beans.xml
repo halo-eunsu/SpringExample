@@ -5,6 +5,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
+
     <bean id="sendEmailMessage" class="com.nhnacademy.edu.springframework.MessageSender.sendEmailMessage" >
     </bean>
 
